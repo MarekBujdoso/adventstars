@@ -1,6 +1,6 @@
-# Advent 2022 winners
+# Adventná výzva 2022
+> Zvládneš deň bez mobilu?
 
----
 
 __Top 3__
 
@@ -9,12 +9,12 @@ __Top 3__
 | 1.      | **Kristína Požonská**   | (O7A)   | \*\*\*\*\*  \*\* |
 | 2.      | **Andrea Mihoková**     | (O5A)   | \*\*       |
 | 2.      | **Juliana Olejníková**  | (05B)   | \*\*       |
-| 3.      | **Lukáš Stahovec**      | (O5B)   | *        |
-| 3.      | **Ema Polčová**         | (O3A)   | *        |
+| 3.      | **Lukáš Stahovec**      | (O5B)   | \*        |
+| 3.      | **Ema Polčová**         | (O3A)   | \*        |
 
 ---
 
-__Best class__
+__Najlepšia trieda__
 
 | Poradie | trieda  | hviezdy  |
 | ------- | ------- | -------- |
@@ -25,6 +25,6 @@ __Best class__
 
 ---
 
-## Max days in a row
+## Najdlhší počet dní zasebou
 
-Kristína Požonská 4 days in a row.
+__Kristína Požonská__ 4 dni zasebou.
