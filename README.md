@@ -6,11 +6,11 @@ __Top 3__
 
 | Poradie | Meno                | trieda  | hviezdy  |
 | ------- | ------------------- | ------- | -------- |
-| 1.      | **$${\color{gold}Kristína \space Požonská}$$**   | (O7A)   | $${\color{gold}\*\*\*\*\* \space \*\*}$$ |
-| 2.      | **$${\color{silver}Andrea \space Mihoková}$$**     | (O5A)   | $${\color{gold}\*\*}$$       |
-| 2.      | **$${\color{silver}Juliana \space Olejníková}$$**  | (05B)   | $${\color{gold}\*\*}$$       |
-| 3.      | **$${\color{#CD7F32}Lukáš \space Stahovec}$$**      | (O5B)   | $${\color{gold}*}$$        |
-| 3.      | **$${\color{#CD7F32}Ema \space Polčová}$$**         | (O3A)   | $${\color{gold}*}$$        |
+| 1.      | **Kristína Požonská**   | (O7A)   | \*\*\*\*\*  \*\* |
+| 2.      | **Andrea Mihoková**     | (O5A)   | \*\*       |
+| 2.      | **Juliana Olejníková**  | (05B)   | \*\*       |
+| 3.      | **Lukáš Stahovec**      | (O5B)   | *        |
+| 3.      | **Ema Polčová**         | (O3A)   | *        |
 
 ---
 
